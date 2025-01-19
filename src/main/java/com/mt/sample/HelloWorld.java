@@ -15,6 +15,7 @@ public class HelloWorld {
 
 	private static Date getLocalCurrentDate() {
 		String m = "Mithun Technologies";
+		System.out.println("Hello Welcome to Maven Build Tool !! Today Date is:  " +m );
 		return new Date();
 
 	}
